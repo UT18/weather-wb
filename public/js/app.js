@@ -1,9 +1,6 @@
 // client side js to fetch will run in the browser
 // fetch not in node js only in browser
 
-console.log('Client side javascript file is loaded!')
-
-
 const weatherForm = document.querySelector('form')
 
 // event listeners
